@@ -1,0 +1,26 @@
+id,name,region,accuracy,coherence
+P01,Aria Conti,Left hand,52.76,36.47
+P01,Aria Conti,Right hand,60.83,43.41
+P01,Aria Conti,Left leg,56.79,68.81
+P01,Aria Conti,Right leg,58.53,67.07
+P01,Aria Conti,Head,75.46,78.89
+P02,Marco Bellini,Left hand,71.36,76.16
+P02,Marco Bellini,Right hand,69.38,81.96
+P02,Marco Bellini,Left leg,57.72,63.30
+P02,Marco Bellini,Right leg,60.61,55.21
+P02,Marco Bellini,Head,77.23,47.59
+P03,Sofia Ricci,Left hand,92.93,97.48
+P03,Sofia Ricci,Right hand,90.81,96.00
+P03,Sofia Ricci,Left leg,88.64,95.97
+P03,Sofia Ricci,Right leg,91.33,91.18
+P03,Sofia Ricci,Head,90.32,96.36
+P04,Kenji Mori,Left hand,82.53,89.72
+P04,Kenji Mori,Right hand,78.49,80.18
+P04,Kenji Mori,Left leg,84.62,94.46
+P04,Kenji Mori,Right leg,76.44,63.96
+P04,Kenji Mori,Head,82.23,74.59
+P05,Lina Haddad,Left hand,74.80,85.88
+P05,Lina Haddad,Right hand,74.98,84.01
+P05,Lina Haddad,Left leg,82.56,73.21
+P05,Lina Haddad,Right leg,73.05,82.42
+P05,Lina Haddad,Head,79.78,87.59

@@ -1,0 +1,16 @@
+id,name,task,activity,start_s,end_s,frames,accuracy,coherence
+P01,Aria Conti,Task 1,Warm-up groove,0.000,1.600,48,50.64,50.14
+P01,Aria Conti,Task 2,Core sequence,1.600,3.200,48,59.13,53.75
+P01,Aria Conti,Task 3,Finish and balance,3.200,4.733,47,65.27,56.48
+P02,Marco Bellini,Task 1,Warm-up groove,0.000,1.600,48,69.93,76.28
+P02,Marco Bellini,Task 2,Core sequence,1.600,3.200,48,67.58,69.16
+P02,Marco Bellini,Task 3,Finish and balance,3.200,4.733,47,58.85,59.63
+P03,Sofia Ricci,Task 1,Warm-up groove,0.000,1.600,48,92.06,95.24
+P03,Sofia Ricci,Task 2,Core sequence,1.600,3.200,48,91.65,94.47
+P03,Sofia Ricci,Task 3,Finish and balance,3.200,4.733,47,88.92,95.44
+P04,Kenji Mori,Task 1,Warm-up groove,0.000,1.600,48,77.47,71.96
+P04,Kenji Mori,Task 2,Core sequence,1.600,3.200,48,84.47,88.08
+P04,Kenji Mori,Task 3,Finish and balance,3.200,4.733,47,79.91,85.22
+P05,Lina Haddad,Task 1,Warm-up groove,0.000,1.600,48,75.96,83.69
+P05,Lina Haddad,Task 2,Core sequence,1.600,3.200,48,78.87,85.12
+P05,Lina Haddad,Task 3,Finish and balance,3.200,4.733,47,74.78,75.14

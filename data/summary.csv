@@ -1,0 +1,6 @@
+id,name,recording,overall_accuracy,coherence,consistency,cognitive_control_index,tier,timing_offset_ms,weakest_region,weakest_task
+P01,Aria Conti,P01_aria_conti.csv,58.30,55.41,85.37,62.85,Needs support,33,Left hand,Task 1
+P02,Marco Bellini,P02_marco_bellini.csv,65.50,67.89,88.93,70.90,Developing,33,Left leg,Task 3
+P03,Sofia Ricci,P03_sofia_ricci.csv,90.89,95.23,96.86,93.38,Expert,0,Left leg,Task 3
+P04,Kenji Mori,P04_kenji_mori.csv,80.62,81.64,93.00,83.40,Proficient,33,Right leg,Task 1
+P05,Lina Haddad,P05_lina_haddad.csv,76.55,81.74,95.91,81.98,Proficient,0,Right leg,Task 3
